@@ -64,13 +64,6 @@ ________________________________________
 •	Property age influences price trends 
 •	Ensemble models outperform linear models for complex real estate data 
 ________________________________________
-🤝 Contribution
-This was a group project completed as part of the Data Science and Innovation course.
-My contributions included:
-•	Data preprocessing and cleaning 
-•	Feature engineering and EDA 
-•	Model training and evaluation 
-________________________________________
 🚀 Future Improvements
 •	Incorporate economic indicators (GDP, CPI, interest rates) 
 •	Use SHAP values for better model interpretability 
